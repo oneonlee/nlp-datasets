@@ -216,7 +216,7 @@
 |62|XQA | 90K qa pairs in 9 languages for cross-lingual open-domain qa<br> multilingual dataset → language / question / answer|
 |63|MetaQA | movie ontology based on WikiMovies dataset, 3-hop queries|
 |64|[CODAH](https://paperswithcode.com/dataset/codah) | Common-sense qa in SWAG style<br> 사람들이 피드백을 기반으로 직접 생성<br> Description을 주고 문장을 주면 이어서 나올 선지를 선택|
-|65|[PybMedQA](https://paperswithcode.com/dataset/pubmedqa) | yes/no/maybe로 대답할 수 있는 research question answer dataset<br> biomedical question answering dataset|
+|65|[PubMedQA](https://paperswithcode.com/dataset/pubmedqa) | yes/no/maybe로 대답할 수 있는 research question answer dataset<br> biomedical question answering dataset|
 |66|[MedHop](https://paperswithcode.com/dataset/medhop) | WikiHop과 유사하게 PubMed에서 수집한 biomedical qa dataset|
 |67|[CSQA](https://paperswithcode.com/dataset/csqa) | Complex Sequential QA<br> 1.6M turn으로 구성된 dialog dataset<br> 단일 튜플로 대답할 수 있는 질문들과는 달리 더 큰 subgraph가 필요한 질문들로 구성<br> Knowledge graph 사용|
 |68|[CLOTH](https://paperswithcode.com/dataset/cloth) | Cloze test by teacher → 빈칸에 들어갈 단어 찾기, 4지선다<br> middle, high school level english language exam|
